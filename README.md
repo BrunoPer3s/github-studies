@@ -1,3 +1,4 @@
 # Github Studies
 
-- Learning Github
+- Learnig Github
+- Adicionando no VIM
